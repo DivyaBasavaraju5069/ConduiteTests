@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://angularjs.realworld.io/#",
+    "env": {
+        "email": "divya@testing.com",
+        "password": "password123"
+    }
+}

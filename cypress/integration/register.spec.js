@@ -7,6 +7,6 @@ describe('Register', () => {
     /*beforeEach(() => {
         cy.visit('')
     })*/
-   //To be deleted added extra line
+   //testing access for git
 
 })
